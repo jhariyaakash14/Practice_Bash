@@ -1,0 +1,28 @@
+
+to initialize empty folder in git 
+git init
+
+To get status
+git status
+
+to add the file
+git add .
+
+to commit the file
+git commit -m "msg"
+
+to go to particular repo
+git remote add origin (give url of the repository)
+
+
+to push the file 
+git push -u origin master
+
+if we want to push only one file or some no. of files only then
+git add (drag and drop the file)
+
+to create ne branch 
+git branch (name)
+
+to switch to other branch 
+git checkout (branch name )
